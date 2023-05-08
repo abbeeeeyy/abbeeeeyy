@@ -27,4 +27,5 @@
 </p>
 			
 <img align="left" width=210px alt="Unicorn" src="https://media.tenor.com/UTxKJNlZilwAAAAi/luffy-monkey-d-luffy.gif" />
+<img align="center" width=210px alt="Unicorn" src="https://media.tenor.com/2Ua7f3x6MJcAAAAi/nero-dance.gif" />
 <img align="right" width=300px alt="Unicorn" src="https://media.tenor.com/StrieWhz-UcAAAAj/gintama.gif" />
