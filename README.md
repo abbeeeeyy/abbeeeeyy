@@ -1,4 +1,6 @@
-<iframe src="https://giphy.com/embed/lN9LGNWjIUXfkG4vPk" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/btsofficial-bts-boy-with-luv-lN9LGNWjIUXfkG4vPk">via GIPHY</a></p>
+<p align="center">
+  <img height="400" alt="Unicorn" src="https://giphy.com/gifs/btsofficial-bts-boy-with-luv-lN9LGNWjIUXfkG4vPk" />
+</p>
 
 <h1 align="center">KON-INNIT 👋</h1>
 <h3 align="center">♡ BTS at anime lang sapat na ♡</h3>
