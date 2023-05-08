@@ -1,5 +1,5 @@
 <p align="center">
-  <img height="400" alt="Unicorn" src="https://giphy.com/gifs/btsofficial-bts-boy-with-luv-lN9LGNWjIUXfkG4vPk" />
+  <img height="400" src="https://giphy.com/gifs/btsofficial-bts-boy-with-luv-lN9LGNWjIUXfkG4vPk" />
 </p>
 
 <h1 align="center">KON-INNIT 👋</h1>
