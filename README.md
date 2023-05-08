@@ -15,7 +15,7 @@
 		<a style="margin-left: 10px;" target="_blank" href="#">
 				<img height="50" alt="Unicorn" src="https://img.icons8.com/?size=512&id=kAMVE8BzkuWm&format=png" />
         <a style="margin-left: 10px;" target="_blank" href="#">
-			<img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"></a>
+			<img height="50" alt="Unicorn" src="https://img.icons8.com/?size=512&id=NGCZlRggUjBt&format=png" />
 		<a style="margin-left: 10px;" target="_blank" href="#">
 			<img src="https://img.icons8.com/doodle/1x/twitter-squared--v2.png" ></a>
 		<a style="margin-left: 10px;" target="_blank" href="#">
