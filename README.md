@@ -1,5 +1,5 @@
 <p align="center">
-  <img height="400" alt="Unicorn" src="https://media.tenor.com/rcw-ZCPlZZIAAAAd/bts-bts-cute.gif" />
+  <img height="500" alt="Unicorn" src="https://media.tenor.com/rcw-ZCPlZZIAAAAd/bts-bts-cute.gif" />
 </p>
 
 <h1 align="center">KON-INNIT 👋</h1>
