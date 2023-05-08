@@ -1,5 +1,5 @@
 <p align="center">
-  <img height="400" src="[https://giphy.com/gifs/btsofficial-bts-boy-with-luv-lN9LGNWjIUXfkG4vPk](https://giphy.com/gifs/btsofficial-bts-boy-with-luv-lN9LGNWjIUXfkG4vPk)" />
+  <img height="400" src="https://tenor.com/view/bts-bts-cute-bts-christmas-bts-holidays-bangtan-gif-24273077" />
 </p>
 
 <h1 align="center">KON-INNIT 👋</h1>
