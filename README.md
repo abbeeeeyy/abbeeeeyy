@@ -4,9 +4,22 @@
 
 <h1 align="center">KON-INNIT 👋</h1>
 <h3 align="center">♡ BTS at anime lang sapat na ♡</h3>
-<img align="left" top="500" height="480" width="410" alt="GIF" src="https://www.icegif.com/wp-content/uploads/2021/10/icegif-1910.gif">
-<img align="right" top="500" height="480" width="410" alt="GIF" src="https://64.media.tumblr.com/67f1ce41a6eae180e0a701ebd05b94bb/tumblr_inline_o8tc3g3QEc1qedh1e_500.gifv">
 
-<h3 align="center"></h3>
-<p align="left">
+<p align="center">
+
+ <div align="center"  class="icons-social" style="margin-left: 10px;">
+        <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/elizer-ponio-jr-19719abb/">
+			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
+        <a style="margin-left: 10px;" target="_blank" href="#">
+		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
+		<a style="margin-left: 10px;" target="_blank" href="#">
+				<img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/40/000000/external-stack-overflow-is-a-question-and-answer-site-for-professional-logo-color-tal-revivo.png"></a>
+        <a style="margin-left: 10px;" target="_blank" href="#">
+			<img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"></a>
+		<a style="margin-left: 10px;" target="_blank" href="#">
+			<img src="https://img.icons8.com/doodle/1x/twitter-squared--v2.png" ></a>
+		<a style="margin-left: 10px;" target="_blank" href="#">
+				<img src="https://img.icons8.com/doodle/1x/youtube--v2.png" ></a>
+      </div>
+
 </p>
