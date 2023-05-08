@@ -8,7 +8,6 @@
 <p align="center">
 
  <div align="center"  class="icons-social" style="margin-left: 10px;">
-        <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/elizer-ponio-jr-19719abb/">
 			<gif src="https://tenor.com/view/bt21-gif-25990591"></a>
         <a style="margin-left: 10px;" target="_blank" href="#">
 		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
