@@ -16,9 +16,9 @@
 				<img height="50" alt="Unicorn" src="https://img.icons8.com/?size=512&id=kAMVE8BzkuWm&format=png" />
         <a style="margin-left: 10px;" target="_blank" href="#">
 			<img height="50" alt="Unicorn" src="https://img.icons8.com/?size=512&id=NGCZlRggUjBt&format=png" />
-		<a style="margin-left: 10px;" target="_blank" href="#">
+		<a style="margin-left: 10px;" target="_blank" href="https://youtu.be/nOI67IDlNMQ">
 			<img height="50" alt="Unicorn" src="https://img.icons8.com/?size=512&id=klGVNNJoJgnc&format=png" />
-		<a style="margin-left: 10px;" target="_blank" href="#">
+		<a style="margin-left: 10px;" target="_blank" href="https://youtu.be/pk7ESz6vtyA">
 				<img height="50" alt="Unicorn" src="https://img.icons8.com/?size=512&id=5hYhQGcAcREz&format=png" />
 		<a style="margin-left: 10px;" target="_blank" href="https://youtu.be/_yTP_L8fC-k">
 				<img height="50" alt="Unicorn" src="https://img.icons8.com/?size=512&id=OjiMwAxXpBAZ&format=png" />
